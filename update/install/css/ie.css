@@ -1,0 +1,21 @@
+/* -----------------------------------------------------------
+
+		Screen Stylesheet
+		Autor: Dragan Simonovic, info@vibrantdrive.com
+
+-------------------------------------------------------------- */
+
+body { text-align: center; }
+
+#container { text-align: left; }
+
+.group {
+	zoom: 1;
+	display: block;
+	min-height: 1px;
+	}
+
+button {
+	width: auto;
+	overflow: visible;
+	}

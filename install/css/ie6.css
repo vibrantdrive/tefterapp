@@ -1,0 +1,18 @@
+/*
+Title:		IE6 patches
+Autor:		info@vibrantdrive.com
+*/
+
+body {
+	text-align: center;
+	}
+
+#container {
+	text-align: left;
+	}
+
+/* self-clear floats */
+
+.group {
+	height: 1%;
+	}

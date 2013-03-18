@@ -1,0 +1,18 @@
+/*
+Title:		IE7 patches
+Autor:		info@vibrantdrive.com
+*/
+
+body {
+	text-align: center;
+	}
+
+#container {
+	text-align: left;
+	}
+
+/* self-clear floats */
+
+.group {
+	min-height: 1px;
+	}
